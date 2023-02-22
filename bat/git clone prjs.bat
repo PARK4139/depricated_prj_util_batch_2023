@@ -12,3 +12,7 @@ git clone https://github.com/PARK4139/prj_youtube_donwloading.git
 git clone https://github.com/PARK4139/prj_util_batch_2023.git
 git clone https://github.com/PARK4139/prj_server_communication.git
 git clone https://github.com/PARK4139/prj_digital_world.git
+git clone https://github.com/PARK4139/prj_chatGPT.git
+git clone https://github.com/PARK4139/prj_withv_RPA.git
+
+exit
